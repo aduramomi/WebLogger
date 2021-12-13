@@ -1,0 +1,3 @@
+<appSettings>
+    <add key="FileLocation" value="C:\Users\Aduramomi\Documents\Visual Studio 2013\Projects\WebFormLogger\WebFormLogger\bin"/>
+  </appSettings>
